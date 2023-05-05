@@ -1,1 +1,1 @@
-# expansive-cards-JS
+# Slider expansivo con HTML, CSS y Javascript.
